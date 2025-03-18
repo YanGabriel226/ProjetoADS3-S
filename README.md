@@ -1,5 +1,5 @@
-Integrantes
-Matheus
-Luana
-Yan
-Saulo
+Integrantes:
+Matheus,
+Luana,
+Yan,
+Saulo.
