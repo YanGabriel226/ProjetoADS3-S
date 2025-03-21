@@ -2,4 +2,5 @@ Integrantes:
 Matheus,
 Luana,
 Yan,
-Saulo.
+Saulo,
+Vitoria.
