@@ -1,16 +1,13 @@
 body{
-    background-color:mediumaquamarine ;
+    background-color:rgb(58, 207, 160) ;
 }
 div {
     margin: 0 auto;
     width: 35%;
-    tr:nth-child(3) td:nth-child(n+0):nth-child(-n+0) {
+    tr:nth-child(3) td:nth-child(n+1):nth-child(-n+5) {
         opacity: 0.5;
     }
-    tr:nth-child(7) td:nth-child(n+3):nth-child(-n+7) {
-        opacity: 0.5;
-    }
-    tr:nth-child(8) td:nth-child(n+1):nth-child(-n+7) {
+    tr:nth-child(8) td:nth-child(n+2):nth-child(-n+7) {
         opacity: 0.5;
     }
     
@@ -21,7 +18,10 @@ table {
     text-align: left;
     font-family: Arial, sans-serif;
 }
-
+td:hover {
+    background-color: rgb(81, 241, 188);
+    cursor: pointer;
+}
 th, td {
     border: 1px solid #b66b6b;
     padding: 5px;

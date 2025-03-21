@@ -1,5 +1,5 @@
 body{
-    background-color:mediumaquamarine ;
+    background-color:rgb(58, 207, 160) ;
 }
 div {
     margin: 0 auto;
@@ -18,7 +18,10 @@ table {
     text-align: left;
     font-family: Arial, sans-serif;
 }
-
+td:hover {
+    background-color: rgb(81, 241, 188);
+    cursor: pointer;
+}
 th, td {
     border: 1px solid #b66b6b;
     padding: 5px;
