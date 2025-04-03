@@ -1,7 +1,7 @@
 body{
     background-color:rgb(58, 207, 160) ;
 }
-div {
+#Janeiro  {
     margin: 0 auto;
     width: 35%;
     tr:nth-child(3) td:nth-child(n+1):nth-child(-n+3) {
@@ -51,7 +51,7 @@ td, th {
 body{
     background-color:rgb(58, 207, 160) ;
 }
-div {
+#Fevereiro {
     margin: 0 auto;
     width: 35%;
     tr:nth-child(3) td:nth-child(n+1):nth-child(-n+6) {
@@ -101,7 +101,7 @@ td, th {
 body{
     background-color:rgb(58, 207, 160) ;
 }
-div {
+#Março {
     margin: 0 auto;
     width: 35%;
     tr:nth-child(3) td:nth-child(n+1):nth-child(-n+6) {
@@ -148,7 +148,7 @@ td, th {
 body{
     background-color:rgb(58, 207, 160) ;
 }
-div {
+#Abril {
     margin: 0 auto;
     width: 35%;
     tr:nth-child(3) td:nth-child(n+1):nth-child(-n+2) {
@@ -195,7 +195,7 @@ td, th {
 body{
     background-color:rgb(58, 207, 160) ;
 }
-div {
+#Maio {
     margin: 0 auto;
     width: 35%;
     tr:nth-child(3) td:nth-child(n+1):nth-child(-n+4) {
@@ -242,7 +242,7 @@ td, th {
 body{
     background-color:rgb(58, 207, 160) ;
 }
-div {
+#Junho {
     margin: 0 auto;
     width: 35%;
     tr:nth-child(3) td:nth-child(n+0):nth-child(-n+0) {
@@ -292,7 +292,7 @@ td, th {
 body{
     background-color:rgb(58, 207, 160) ;
 }
-div {
+#Julho {
     margin: 0 auto;
     width: 35%;
     tr:nth-child(3) td:nth-child(n+1):nth-child(-n+2) {
@@ -342,7 +342,7 @@ td, th {
 body{
     background-color:rgb(58, 207, 160) ;
 }
-div {
+#Agosto {
     margin: 0 auto;
     width: 35%;
     tr:nth-child(3) td:nth-child(n+1):nth-child(-n+5) {
@@ -389,7 +389,7 @@ td, th {
 body{
     background-color:rgb(58, 207, 160) ;
 }
-div {
+#Setembro {
     margin: 0 auto;
     width: 35%;
     tr:nth-child(3) td:nth-child(n+1):nth-child(-n+1) {
@@ -439,7 +439,7 @@ td, th {
 body{
     background-color:rgb(58, 207, 160) ;
 }
-div {
+#Outubro {
     margin: 0 auto;
     width: 35%;
     tr:nth-child(3) td:nth-child(n+1):nth-child(-n+3) {
@@ -489,7 +489,7 @@ td, th {
 body{
     background-color:rgb(58, 207, 160) ;
 }
-div {
+#Novembro {
     margin: 0 auto;
     width: 35%;
     tr:nth-child(3) td:nth-child(n+1):nth-child(-n+6) {
@@ -539,7 +539,7 @@ td, th {
 body{
     background-color:rgb(58, 207, 160) ;
 }
-div {
+#Dezembro {
     margin: 0 auto;
     width: 35%;
     tr:nth-child(3) td:nth-child(n+1):nth-child(-n+1) {
