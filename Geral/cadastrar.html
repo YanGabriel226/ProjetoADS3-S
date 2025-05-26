@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário Personalizado</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="Disgne2.css">
+</head>
+<body class="custom-body">
+
+  <div class="custom-card">
+    <h2 class="text-center mb-4">Cadastrar</h2>
+    <form class="row g-3" action="salvar_usuario.php" method="post">
+      <div class="col-md-6">
+        <label for="inputEmail4" class="form-label"name="email">Email</label>
+        <input type="email" class="form-control custom-input" id="inputEmail4" placeholder="Email" name="email" required>
+        <div class="invalid-feedback">Por favor, insira um email válido.</div>
+    </div>
+      <div class="col-md-6">
+        <label for="inputPassword4" class="form-label"name="password">Senha</label>
+        <input type="password" class="form-control custom-input" id="inputPassword4" placeholder="Senha" name="password" required>
+      </div>
+      <div class="col-12">
+        <label for="inputAddress" class="form-label"name="text">Endereço</label>
+        <input type="text" class="form-control custom-input" id="inputAddress" placeholder="Digite aqui" name="text" required>
+      </div>
+      <div class="col-12">
+        <button type="submit" class="btn btn-primary w-100">Cadastrar</button>
+      </div>
+    </form>
+  </div>
+
+</body>
+</html>
