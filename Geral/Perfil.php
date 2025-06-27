@@ -134,11 +134,13 @@
             <button type="submit" class="btn-login">Login</button>
         </form>
         <form action="configuracao.php" method="get">
-        <button type="submit" class="btn-config">
-            ⚙️
-        </button>
-</form>
-
+            <button type="submit" class="btn-config">
+                ⚙️
+            </button>
+        </form>
+        <form action="listar_usuarios.php" method="get">
+            <button type="submit" class="btn-login">Gerenciar Usuários</button>
+        </form>
     </div>
 </div>
 <br><br><br><br>
